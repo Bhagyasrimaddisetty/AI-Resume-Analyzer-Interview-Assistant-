@@ -25,7 +25,7 @@ An end-to-end GenAI application that evaluates resumes against job descriptions 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Bhagyasrimaddisetty/ai-resume-analyzer.git
+git clone https://github.com/Bhagyasrimaddisetty/AI-Resume-Analyzer-Interview-Assistant-
 cd ai-resume-analyzer
 ```
 
