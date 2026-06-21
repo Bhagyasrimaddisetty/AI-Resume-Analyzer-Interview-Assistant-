@@ -59,7 +59,9 @@ streamlit run app.py
 Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
-Screenshot 2026-06-21 130322.png
+## 📸 Screenshot
+
+![AI Resume Analyzer Interface](Screenshot%202026-06-21%20130322.png)
 
 ## 🗂️ Project Structure
 
